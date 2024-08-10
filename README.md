@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game
 
-![tic-tac-toe](image.png)
+![tic-tac-toe](/Screenshots/image.png)
 
 ## Description
 
@@ -45,9 +45,11 @@ You need a web browser to run the game.
 
 3. Open the index.html file in your web browser to play the game.
 
-### TUTORIAL
+### SCREENSHOTS
 
-![draw](Screencast%20from%202024-08-10%2010-06-30.webm)
+![IMAGE](/Screenshots/image-3.png)
+![WINNER2](/Screenshots/image-2.png)
+![DRAW](/Screenshots/image-1.png)
 
 ### Resources
 
